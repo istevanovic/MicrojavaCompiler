@@ -1,0 +1,172 @@
+INFO  19:52:16,722 - Compiling source file: C:\Users\si110350\Downloads\PPDZilija\test\program.mj
+INFO  19:52:16,734 - #2 program
+INFO  19:52:16,734 - #16 Program
+INFO  19:52:16,734 - #4 class
+INFO  19:52:16,734 - #16 A
+INFO  19:52:16,734 - #43 {
+INFO  19:52:16,734 - #16 int
+INFO  19:52:16,734 - #16 x
+INFO  19:52:16,734 - #41 [
+INFO  19:52:16,734 - #42 ]
+INFO  19:52:16,734 - #37 ,
+INFO  19:52:16,734 - Deklarisan niz promenljivih x na liniji 5
+INFO  19:52:16,735 - #16 y
+INFO  19:52:16,735 - #41 [
+INFO  19:52:16,735 - #42 ]
+INFO  19:52:16,735 - #36 ;
+INFO  19:52:16,735 - Deklarisan niz promenljivih y na liniji 5
+INFO  19:52:16,735 - #43 {
+INFO  19:52:16,735 - #16 int
+INFO  19:52:16,735 - #16 pr
+INFO  19:52:16,735 - #39 (
+INFO  19:52:16,735 - Obradjuje se funkcija pr na liniji 7
+INFO  19:52:16,735 - #40 )
+INFO  19:52:16,735 - #43 {
+INFO  19:52:16,735 - #9 return
+INFO  19:52:16,736 - #15 1
+INFO  19:52:16,736 - #36 ;
+INFO  19:52:16,736 - #44 }
+INFO  19:52:16,736 - #16 int
+INFO  19:52:16,736 - #16 pr
+INFO  19:52:16,736 - #39 (
+ERROR 19:52:16,736 - Greska na liniji 10: Metoda/funkcija sa imenom pr vec postoji.
+INFO  19:52:16,736 - #40 )
+INFO  19:52:16,736 - #43 {
+INFO  19:52:16,736 - #9 return
+INFO  19:52:16,736 - #15 0
+INFO  19:52:16,737 - #36 ;
+INFO  19:52:16,737 - #44 }
+ERROR 19:52:16,737 - Greska na liniji 11: tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije noObj
+INFO  19:52:16,737 - #16 int
+INFO  19:52:16,737 - #16 pr1
+INFO  19:52:16,737 - #39 (
+INFO  19:52:16,737 - Obradjuje se funkcija pr1 na liniji 14
+INFO  19:52:16,737 - #40 )
+INFO  19:52:16,737 - #43 {
+INFO  19:52:16,737 - #9 return
+INFO  19:52:16,737 - #16 pr
+INFO  19:52:16,737 - #39 (
+INFO  19:52:16,737 - Koristi se pr na liniji 15
+INFO  19:52:16,737 - #40 )
+INFO  19:52:16,737 - #36 ;
+INFO  19:52:16,737 - Pronadjen poziv funkcije pr na liniji 15
+INFO  19:52:16,737 - #44 }
+INFO  19:52:16,737 - #44 }
+INFO  19:52:16,737 - #44 }
+INFO  19:52:16,737 - #10 const
+INFO  19:52:16,737 - Deklarisana klasa A na liniji 4
+INFO  19:52:16,738 - #16 int
+INFO  19:52:16,738 - #16 pi
+INFO  19:52:16,738 - #33 =
+INFO  19:52:16,738 - #15 3
+INFO  19:52:16,738 - #37 ,
+INFO  19:52:16,738 - Definisana konstanta pi na liniji 20
+INFO  19:52:16,738 - #16 e
+INFO  19:52:16,738 - #33 =
+INFO  19:52:16,738 - #15 2
+INFO  19:52:16,738 - #36 ;
+INFO  19:52:16,738 - Definisana konstanta e na liniji 20
+INFO  19:52:16,738 - #10 const
+INFO  19:52:16,738 - #16 string
+INFO  19:52:16,738 - #16 strin
+INFO  19:52:16,738 - #33 =
+INFO  19:52:16,738 - #19 aaa
+INFO  19:52:16,739 - #36 ;
+INFO  19:52:16,739 - Definisana konstanta strin na liniji 21
+INFO  19:52:16,739 - #4 class
+INFO  19:52:16,739 - #16 B
+INFO  19:52:16,739 - #14 extends
+INFO  19:52:16,739 - #16 A
+INFO  19:52:16,739 - #43 {
+INFO  19:52:16,739 - #16 int
+INFO  19:52:16,739 - #16 i
+INFO  19:52:16,739 - #36 ;
+INFO  19:52:16,739 - Deklarisana promenljiva i na liniji 24
+INFO  19:52:16,739 - #16 int
+INFO  19:52:16,739 - #16 x
+INFO  19:52:16,739 - #41 [
+INFO  19:52:16,739 - #42 ]
+INFO  19:52:16,739 - #36 ;
+INFO  19:52:16,739 - Deklarisan niz promenljivih x na liniji 24
+INFO  19:52:16,739 - #16 A
+INFO  19:52:16,739 - #16 theAA
+INFO  19:52:16,739 - #36 ;
+INFO  19:52:16,739 - Deklarisana promenljiva theAA na liniji 25
+INFO  19:52:16,739 - #43 {
+INFO  19:52:16,739 - #12 void
+INFO  19:52:16,739 - #16 voidtest
+INFO  19:52:16,740 - #39 (
+INFO  19:52:16,740 - Obradjuje se funkcija voidtest na liniji 27
+INFO  19:52:16,740 - #16 int
+INFO  19:52:16,740 - #16 a
+INFO  19:52:16,740 - #37 ,
+INFO  19:52:16,740 - Deklarisana promenljiva a na liniji 27
+INFO  19:52:16,740 - #16 char
+INFO  19:52:16,740 - #16 b
+INFO  19:52:16,740 - #40 )
+INFO  19:52:16,740 - Deklarisana promenljiva b na liniji 27
+INFO  19:52:16,740 - #16 int
+INFO  19:52:16,740 - #16 c
+INFO  19:52:16,740 - #36 ;
+INFO  19:52:16,740 - Deklarisana promenljiva c na liniji 28
+INFO  19:52:16,740 - #43 {
+INFO  19:52:16,740 - #11 read
+INFO  19:52:16,740 - #39 (
+INFO  19:52:16,740 - #16 a
+INFO  19:52:16,740 - #40 )
+INFO  19:52:16,740 - Koristi se a na liniji 30
+INFO  19:52:16,740 - #36 ;
+INFO  19:52:16,740 - #11 read
+INFO  19:52:16,740 - #39 (
+INFO  19:52:16,740 - #16 b
+INFO  19:52:16,740 - #40 )
+INFO  19:52:16,740 - Koristi se b na liniji 30
+INFO  19:52:16,740 - #36 ;
+INFO  19:52:16,741 - #11 read
+INFO  19:52:16,741 - #39 (
+INFO  19:52:16,741 - #16 c
+INFO  19:52:16,741 - #40 )
+INFO  19:52:16,741 - Koristi se c na liniji 30
+INFO  19:52:16,741 - #36 ;
+INFO  19:52:16,741 - #44 }
+INFO  19:52:16,741 - #16 int
+INFO  19:52:16,741 - #16 met
+INFO  19:52:16,741 - #39 (
+INFO  19:52:16,741 - Obradjuje se funkcija met na liniji 33
+INFO  19:52:16,741 - #16 int
+INFO  19:52:16,741 - #16 a
+INFO  19:52:16,741 - #40 )
+INFO  19:52:16,741 - Deklarisana promenljiva a na liniji 33
+INFO  19:52:16,742 - #43 {
+INFO  19:52:16,742 - #9 return
+INFO  19:52:16,742 - #16 a
+INFO  19:52:16,742 - #20 +
+INFO  19:52:16,742 - Koristi se a na liniji 34
+INFO  19:52:16,742 - #15 1
+INFO  19:52:16,742 - #36 ;
+INFO  19:52:16,742 - #44 }
+INFO  19:52:16,742 - #16 int
+INFO  19:52:16,742 - #16 getValue
+INFO  19:52:16,742 - #39 (
+INFO  19:52:16,742 - Obradjuje se funkcija getValue na liniji 37
+INFO  19:52:16,742 - #16 int
+INFO  19:52:16,742 - #16 a
+INFO  19:52:16,742 - #40 )
+INFO  19:52:16,742 - Deklarisana promenljiva a na liniji 37
+INFO  19:52:16,742 - #16 int
+INFO  19:52:16,742 - #16 b
+INFO  19:52:16,742 - #36 ;
+INFO  19:52:16,742 - Deklarisana promenljiva b na liniji 37
+INFO  19:52:16,742 - #16 bool
+INFO  19:52:16,742 - #16 c
+INFO  19:52:16,742 - #36 ;
+INFO  19:52:16,742 - Deklarisana promenljiva c na liniji 37
+INFO  19:52:16,742 - #43 {
+INFO  19:52:16,742 - #16 this
+INFO  19:52:16,743 - #38 .
+ERROR 19:52:16,743 - Greska na liniji 39 : ime this nije deklarisano! 
+INFO  19:52:16,743 - #16 i
+INFO  19:52:16,743 - #33 =
+INFO  19:52:16,743 - #15 6
+INFO  19:52:16,743 - #36 ;
+INFO  19:52:16,743 - #9 return

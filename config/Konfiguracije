@@ -1,0 +1,40 @@
+LEXERGEN
+
+Main class:
+JFlex.Main
+
+Args:
+-d src\rs\ac\bg\etf\si110350\ spec\mjlexer.flex
+----------------------------------------------------------
+PARSERGEN
+
+Main class:
+java_cup.Main
+
+Args:
+-destdir src\rs\ac\bg\etf\si110350 -dump_states -parser MJParser spec\mjparser.cup
+----------------------------------------------------------
+PARSERTEST
+
+Main class:
+rs.ac.bg.etf.si110350.MJParserTest
+
+Args:
+
+----------------------------------------------------------
+DISASM
+
+Main class:
+rs.etf.pp1.mj.runtime.disasm
+
+Args:
+test\program.obj
+----------------------------------------------------------
+RUNTIMERUN
+
+Main class:
+rs.etf.pp1.mj.runtime.Run
+
+Args:
+test\program.obj
+----------------------------------------------------------

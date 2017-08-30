@@ -1,0 +1,92 @@
+INFO  19:50:29,963 - Compiling source file: C:\Users\si110350\Downloads\PPDZilija\test\program.mj
+INFO  19:50:29,974 - #2 program
+INFO  19:50:29,974 - #16 test03
+INFO  19:50:29,975 - #10 const
+INFO  19:50:29,975 - #16 int
+INFO  19:50:29,975 - #16 a
+INFO  19:50:29,975 - #33 =
+INFO  19:50:29,975 - #15 3
+INFO  19:50:29,975 - #36 ;
+INFO  19:50:29,975 - Definisana konstanta a na liniji 5
+INFO  19:50:29,975 - #16 int
+INFO  19:50:29,975 - #16 x
+INFO  19:50:29,975 - #37 ,
+INFO  19:50:29,975 - Deklarisana promenljiva x na liniji 6
+INFO  19:50:29,975 - #16 y
+INFO  19:50:29,975 - #36 ;
+INFO  19:50:29,975 - Deklarisana promenljiva y na liniji 6
+INFO  19:50:29,975 - #16 char
+INFO  19:50:29,975 - #16 z
+INFO  19:50:29,976 - #36 ;
+INFO  19:50:29,976 - Deklarisana promenljiva z na liniji 7
+INFO  19:50:29,976 - #43 {
+INFO  19:50:29,976 - #12 void
+INFO  19:50:29,976 - #16 main
+INFO  19:50:29,976 - #39 (
+INFO  19:50:29,976 - Obradjuje se funkcija main na liniji 9
+INFO  19:50:29,976 - #40 )
+INFO  19:50:29,976 - #43 {
+INFO  19:50:29,976 - #11 read
+INFO  19:50:29,977 - #39 (
+INFO  19:50:29,977 - #16 a
+INFO  19:50:29,977 - #40 )
+INFO  19:50:29,977 - Koristi se a na liniji 10
+INFO  19:50:29,977 - #36 ;
+INFO  19:50:29,977 - #16 a
+ERROR 19:50:29,977 - Semanticka greska na liniji 10: parametar u naredbi read nije dobar!
+INFO  19:50:29,977 - #33 =
+INFO  19:50:29,977 - Koristi se a na liniji 11
+INFO  19:50:29,977 - #15 5
+INFO  19:50:29,977 - #36 ;
+INFO  19:50:29,977 - #16 x
+ERROR 19:50:29,978 - Greska na liniji 11: pogresna destinacija.
+INFO  19:50:29,978 - #33 =
+INFO  19:50:29,978 - Koristi se x na liniji 12
+INFO  19:50:29,978 - #15 1
+INFO  19:50:29,978 - #36 ;
+INFO  19:50:29,978 - #16 y
+INFO  19:50:29,978 - #33 =
+INFO  19:50:29,978 - Koristi se y na liniji 12
+INFO  19:50:29,978 - #15 3
+INFO  19:50:29,978 - #36 ;
+INFO  19:50:29,978 - #16 z
+INFO  19:50:29,978 - #33 =
+INFO  19:50:29,978 - Koristi se z na liniji 12
+INFO  19:50:29,979 - #17 b
+INFO  19:50:29,979 - #36 ;
+INFO  19:50:29,979 - #13 while
+INFO  19:50:29,979 - #39 (
+INFO  19:50:29,979 - #16 z
+INFO  19:50:29,979 - #29 <
+INFO  19:50:29,979 - Koristi se z na liniji 13
+INFO  19:50:29,979 - #16 a
+INFO  19:50:29,979 - #40 )
+INFO  19:50:29,979 - Koristi se a na liniji 13
+ERROR 19:50:29,979 - Greska na liniji 13: Tipovi nisu kompatibilni.
+INFO  19:50:29,979 - #43 {
+INFO  19:50:29,979 - #16 z
+INFO  19:50:29,979 - #33 =
+INFO  19:50:29,979 - Koristi se z na liniji 14
+INFO  19:50:29,979 - #16 y
+INFO  19:50:29,980 - #20 +
+INFO  19:50:29,980 - Koristi se y na liniji 14
+INFO  19:50:29,980 - #16 x
+INFO  19:50:29,980 - #36 ;
+INFO  19:50:29,980 - Koristi se x na liniji 14
+INFO  19:50:29,980 - #16 x
+ERROR 19:50:29,980 - Greska na liniji 14: nekompatibilni tipovi u dodeli vrednosti2.
+INFO  19:50:29,980 - #33 =
+INFO  19:50:29,980 - Koristi se x na liniji 15
+INFO  19:50:29,980 - #16 x
+INFO  19:50:29,980 - #20 +
+INFO  19:50:29,980 - Koristi se x na liniji 15
+INFO  19:50:29,980 - #15 1
+INFO  19:50:29,980 - #36 ;
+INFO  19:50:29,980 - #44 }
+INFO  19:50:29,980 - #3 break
+INFO  19:50:29,980 - #36 ;
+INFO  19:50:29,980 - #44 }
+ERROR 19:50:29,980 - Greska na liniji 17: Break se ne sme koristiti van while petlje.
+INFO  19:50:29,980 - #44 }
+INFO  19:50:29,981 - Print calls = 0
+ERROR 19:50:29,981 - Parsiranje NIJE uspesno zavrseno!

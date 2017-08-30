@@ -1,0 +1,39 @@
+INFO  19:44:44,258 - Compiling source file: C:\Users\si110350\Downloads\PPDZilija\test\program.mj
+INFO  19:44:44,269 - #2 program
+INFO  19:44:44,269 - #16 test303
+INFO  19:44:44,270 - #4 class
+INFO  19:44:44,270 - #16 Radnik
+INFO  19:44:44,270 - #43 {
+INFO  19:44:44,270 - #16 string
+INFO  19:44:44,270 - #16 ime
+INFO  19:44:44,270 - #36 ;
+INFO  19:44:44,270 - Deklarisana promenljiva ime na liniji 4
+INFO  19:44:44,270 - #16 int
+INFO  19:44:44,270 - #16 godinaRodjenja
+INFO  19:44:44,270 - #36 ;
+INFO  19:44:44,270 - Deklarisana promenljiva godinaRodjenja na liniji 5
+INFO  19:44:44,271 - #16 char
+INFO  19:44:44,271 - #16 p
+INFO  19:44:44,271 - #41 [
+INFO  19:44:44,271 - #42 ]
+INFO  19:44:44,271 - #36 ;
+INFO  19:44:44,271 - Deklarisan niz promenljivih p na liniji 6
+INFO  19:44:44,271 - #43 {
+INFO  19:44:44,271 - #12 void
+INFO  19:44:44,271 - #16 postaviIme
+INFO  19:44:44,271 - #39 (
+INFO  19:44:44,271 - Obradjuje se funkcija postaviIme na liniji 8
+INFO  19:44:44,271 - #16 string
+INFO  19:44:44,271 - #16 ime
+INFO  19:44:44,271 - #40 )
+INFO  19:44:44,271 - Deklarisana promenljiva ime na liniji 8
+INFO  19:44:44,271 - #43 {
+INFO  19:44:44,271 - #16 this
+INFO  19:44:44,272 - #38 .
+ERROR 19:44:44,272 - Greska na liniji 9 : ime this nije deklarisano! 
+INFO  19:44:44,272 - #16 ime
+INFO  19:44:44,273 - #33 =
+INFO  19:44:44,273 - #16 ime
+INFO  19:44:44,273 - #36 ;
+INFO  19:44:44,273 - Koristi se ime na liniji 9
+INFO  19:44:44,273 - #44 }

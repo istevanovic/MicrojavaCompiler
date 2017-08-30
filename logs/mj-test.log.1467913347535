@@ -1,0 +1,269 @@
+INFO  19:39:45,713 - Compiling source file: C:\Users\si110350\Downloads\PPDZilija\test\program.mj
+INFO  19:39:45,724 - #2 program
+INFO  19:39:45,724 - #16 test301
+INFO  19:39:45,724 - #10 const
+INFO  19:39:45,725 - #16 int
+INFO  19:39:45,725 - #16 jedan
+INFO  19:39:45,725 - #33 =
+INFO  19:39:45,725 - #15 1
+INFO  19:39:45,725 - #36 ;
+INFO  19:39:45,725 - Definisana konstanta jedan na liniji 4
+INFO  19:39:45,725 - #10 const
+INFO  19:39:45,725 - #16 int
+INFO  19:39:45,725 - #16 pet
+INFO  19:39:45,725 - #33 =
+INFO  19:39:45,725 - #15 5
+INFO  19:39:45,725 - #36 ;
+INFO  19:39:45,725 - Definisana konstanta pet na liniji 5
+INFO  19:39:45,725 - #16 int
+INFO  19:39:45,725 - #16 bodovi
+INFO  19:39:45,726 - #36 ;
+INFO  19:39:45,726 - Deklarisana promenljiva bodovi na liniji 6
+INFO  19:39:45,726 - #16 int
+INFO  19:39:45,726 - #16 niz
+INFO  19:39:45,726 - #41 [
+INFO  19:39:45,726 - #42 ]
+INFO  19:39:45,726 - #36 ;
+INFO  19:39:45,726 - Deklarisan niz promenljivih niz na liniji 7
+INFO  19:39:45,726 - #16 char
+INFO  19:39:45,726 - #16 nizch
+INFO  19:39:45,726 - #41 [
+INFO  19:39:45,726 - #42 ]
+INFO  19:39:45,726 - #36 ;
+INFO  19:39:45,726 - Deklarisan niz promenljivih nizch na liniji 9
+INFO  19:39:45,726 - #43 {
+INFO  19:39:45,726 - #12 void
+INFO  19:39:45,726 - #16 s
+INFO  19:39:45,726 - #39 (
+INFO  19:39:45,726 - Obradjuje se funkcija s na liniji 12
+INFO  19:39:45,727 - #40 )
+INFO  19:39:45,727 - #43 {
+INFO  19:39:45,727 - #8 print
+INFO  19:39:45,727 - #39 (
+INFO  19:39:45,727 - #15 88
+INFO  19:39:45,727 - #40 )
+INFO  19:39:45,728 - #36 ;
+INFO  19:39:45,728 - #44 }
+DEBUG 19:39:45,728 - e.getKind() = 1
+INFO  19:39:45,728 - #12 void
+INFO  19:39:45,728 - #16 main
+INFO  19:39:45,728 - #39 (
+INFO  19:39:45,728 - Obradjuje se funkcija main na liniji 16
+INFO  19:39:45,728 - #40 )
+INFO  19:39:45,728 - #43 {
+INFO  19:39:45,728 - #16 bodovi
+INFO  19:39:45,728 - #33 =
+INFO  19:39:45,728 - Koristi se bodovi na liniji 18
+INFO  19:39:45,728 - #15 0
+INFO  19:39:45,728 - #36 ;
+INFO  19:39:45,728 - #16 bodovi
+INFO  19:39:45,728 - #34 ++
+INFO  19:39:45,728 - Koristi se bodovi na liniji 19
+INFO  19:39:45,728 - #36 ;
+INFO  19:39:45,729 - #16 bodovi
+INFO  19:39:45,729 - #33 =
+INFO  19:39:45,729 - Koristi se bodovi na liniji 20
+INFO  19:39:45,729 - #16 bodovi
+INFO  19:39:45,729 - #20 +
+INFO  19:39:45,729 - Koristi se bodovi na liniji 20
+INFO  19:39:45,729 - #16 jedan
+INFO  19:39:45,729 - #36 ;
+INFO  19:39:45,729 - Koristi se jedan na liniji 20
+INFO  19:39:45,729 - #16 bodovi
+INFO  19:39:45,729 - #35 --
+INFO  19:39:45,729 - Koristi se bodovi na liniji 21
+INFO  19:39:45,729 - #36 ;
+INFO  19:39:45,729 - #8 print
+INFO  19:39:45,729 - #39 (
+INFO  19:39:45,729 - #16 bodovi
+INFO  19:39:45,729 - #40 )
+INFO  19:39:45,729 - Koristi se bodovi na liniji 22
+INFO  19:39:45,729 - #36 ;
+INFO  19:39:45,729 - #16 niz
+DEBUG 19:39:45,729 - e.getKind() = 1
+INFO  19:39:45,730 - #33 =
+INFO  19:39:45,730 - Koristi se niz na liniji 25
+INFO  19:39:45,730 - #7 new
+INFO  19:39:45,730 - #16 int
+INFO  19:39:45,730 - #41 [
+INFO  19:39:45,730 - #15 2
+INFO  19:39:45,730 - #42 ]
+INFO  19:39:45,730 - #36 ;
+INFO  19:39:45,730 - Kreiran niz elemenata
+INFO  19:39:45,730 - #16 niz
+INFO  19:39:45,730 - #41 [
+INFO  19:39:45,730 - Koristi se niz na liniji 26
+INFO  19:39:45,730 - #15 0
+INFO  19:39:45,730 - #42 ]
+INFO  19:39:45,730 - #33 =
+INFO  19:39:45,730 - #16 pet
+INFO  19:39:45,730 - #36 ;
+INFO  19:39:45,730 - Koristi se pet na liniji 26
+INFO  19:39:45,730 - #16 niz
+INFO  19:39:45,731 - #41 [
+INFO  19:39:45,731 - Koristi se niz na liniji 27
+INFO  19:39:45,731 - #15 1
+INFO  19:39:45,731 - #42 ]
+INFO  19:39:45,731 - #33 =
+INFO  19:39:45,731 - #15 10
+INFO  19:39:45,731 - #36 ;
+INFO  19:39:45,731 - #16 bodovi
+INFO  19:39:45,731 - #33 =
+INFO  19:39:45,731 - Koristi se bodovi na liniji 28
+INFO  19:39:45,731 - #16 niz
+INFO  19:39:45,731 - #41 [
+INFO  19:39:45,731 - Koristi se niz na liniji 28
+INFO  19:39:45,731 - #15 1
+INFO  19:39:45,731 - #42 ]
+INFO  19:39:45,731 - #23 /
+INFO  19:39:45,731 - #16 niz
+INFO  19:39:45,731 - #41 [
+INFO  19:39:45,731 - Koristi se niz na liniji 28
+INFO  19:39:45,731 - #15 0
+INFO  19:39:45,731 - #42 ]
+INFO  19:39:45,732 - #36 ;
+INFO  19:39:45,732 - #8 print
+INFO  19:39:45,732 - #39 (
+INFO  19:39:45,732 - #16 bodovi
+INFO  19:39:45,732 - #40 )
+INFO  19:39:45,732 - Koristi se bodovi na liniji 29
+INFO  19:39:45,732 - #36 ;
+INFO  19:39:45,732 - #16 nizch
+DEBUG 19:39:45,732 - e.getKind() = 1
+INFO  19:39:45,732 - #33 =
+INFO  19:39:45,732 - Koristi se nizch na liniji 32
+INFO  19:39:45,732 - #7 new
+INFO  19:39:45,732 - #16 char
+INFO  19:39:45,732 - #41 [
+INFO  19:39:45,732 - #15 3
+INFO  19:39:45,732 - #42 ]
+INFO  19:39:45,732 - #36 ;
+INFO  19:39:45,732 - Kreiran niz elemenata
+INFO  19:39:45,732 - #16 nizch
+INFO  19:39:45,732 - #41 [
+INFO  19:39:45,732 - Koristi se nizch na liniji 33
+INFO  19:39:45,732 - #15 0
+INFO  19:39:45,732 - #42 ]
+INFO  19:39:45,732 - #33 =
+INFO  19:39:45,733 - #17 a
+INFO  19:39:45,733 - #36 ;
+INFO  19:39:45,733 - #16 nizch
+INFO  19:39:45,733 - #41 [
+INFO  19:39:45,733 - Koristi se nizch na liniji 34
+INFO  19:39:45,733 - #16 jedan
+INFO  19:39:45,733 - #42 ]
+INFO  19:39:45,733 - Koristi se jedan na liniji 34
+INFO  19:39:45,733 - #33 =
+INFO  19:39:45,733 - #17 b
+INFO  19:39:45,733 - #36 ;
+INFO  19:39:45,733 - #16 nizch
+INFO  19:39:45,733 - #41 [
+INFO  19:39:45,733 - Koristi se nizch na liniji 35
+INFO  19:39:45,733 - #16 pet
+INFO  19:39:45,733 - #21 -
+INFO  19:39:45,733 - Koristi se pet na liniji 35
+INFO  19:39:45,733 - #15 3
+INFO  19:39:45,733 - #42 ]
+INFO  19:39:45,733 - #33 =
+INFO  19:39:45,733 - #17 c
+INFO  19:39:45,733 - #36 ;
+INFO  19:39:45,733 - #8 print
+INFO  19:39:45,734 - #39 (
+INFO  19:39:45,734 - #16 nizch
+INFO  19:39:45,734 - #41 [
+INFO  19:39:45,734 - Koristi se nizch na liniji 36
+INFO  19:39:45,734 - #15 2
+INFO  19:39:45,734 - #21 -
+INFO  19:39:45,734 - #15 1
+INFO  19:39:45,734 - #42 ]
+INFO  19:39:45,734 - #40 )
+INFO  19:39:45,734 - #36 ;
+INFO  19:39:45,734 - #8 print
+DEBUG 19:39:45,734 - e.getKind() = 2
+INFO  19:39:45,734 - #39 (
+INFO  19:39:45,734 - #16 nizch
+INFO  19:39:45,734 - #41 [
+INFO  19:39:45,734 - Koristi se nizch na liniji 37
+INFO  19:39:45,734 - #16 jedan
+INFO  19:39:45,734 - #22 *
+INFO  19:39:45,734 - Koristi se jedan na liniji 37
+INFO  19:39:45,734 - #15 2
+INFO  19:39:45,734 - #42 ]
+INFO  19:39:45,734 - #40 )
+INFO  19:39:45,734 - #36 ;
+INFO  19:39:45,734 - #16 bodovi
+DEBUG 19:39:45,734 - e.getKind() = 2
+INFO  19:39:45,735 - #33 =
+INFO  19:39:45,735 - Koristi se bodovi na liniji 40
+INFO  19:39:45,735 - #39 (
+INFO  19:39:45,735 - #16 pet
+INFO  19:39:45,735 - #22 *
+INFO  19:39:45,735 - Koristi se pet na liniji 40
+INFO  19:39:45,735 - #16 jedan
+INFO  19:39:45,735 - #21 -
+INFO  19:39:45,735 - Koristi se jedan na liniji 40
+INFO  19:39:45,736 - #15 1
+INFO  19:39:45,736 - #40 )
+INFO  19:39:45,736 - #22 *
+INFO  19:39:45,736 - #15 2
+INFO  19:39:45,736 - #21 -
+INFO  19:39:45,736 - #39 (
+INFO  19:39:45,736 - #15 3
+INFO  19:39:45,736 - #24 %
+INFO  19:39:45,736 - #15 2
+INFO  19:39:45,736 - #20 +
+INFO  19:39:45,736 - #15 3
+INFO  19:39:45,736 - #22 *
+INFO  19:39:45,736 - #15 2
+INFO  19:39:45,736 - #21 -
+INFO  19:39:45,736 - #15 3
+INFO  19:39:45,736 - #40 )
+INFO  19:39:45,736 - #21 -
+INFO  19:39:45,736 - #15 1
+INFO  19:39:45,736 - #22 *
+INFO  19:39:45,736 - #15 0
+INFO  19:39:45,736 - #36 ;
+INFO  19:39:45,736 - #8 print
+INFO  19:39:45,736 - #39 (
+INFO  19:39:45,736 - #16 bodovi
+INFO  19:39:45,736 - #40 )
+INFO  19:39:45,736 - Koristi se bodovi na liniji 41
+INFO  19:39:45,737 - #36 ;
+INFO  19:39:45,737 - #11 read
+DEBUG 19:39:45,737 - e.getKind() = 1
+INFO  19:39:45,737 - #39 (
+INFO  19:39:45,737 - #16 bodovi
+INFO  19:39:45,737 - #40 )
+INFO  19:39:45,737 - Koristi se bodovi na liniji 44
+INFO  19:39:45,737 - #36 ;
+INFO  19:39:45,737 - #16 bodovi
+INFO  19:39:45,737 - #33 =
+INFO  19:39:45,737 - Koristi se bodovi na liniji 45
+INFO  19:39:45,737 - #16 bodovi
+INFO  19:39:45,737 - #20 +
+INFO  19:39:45,737 - Koristi se bodovi na liniji 45
+INFO  19:39:45,737 - #15 1
+INFO  19:39:45,737 - #36 ;
+INFO  19:39:45,737 - #8 print
+INFO  19:39:45,737 - #39 (
+INFO  19:39:45,737 - #16 bodovi
+INFO  19:39:45,737 - #40 )
+INFO  19:39:45,737 - Koristi se bodovi na liniji 46
+INFO  19:39:45,737 - #36 ;
+INFO  19:39:45,737 - #16 s
+DEBUG 19:39:45,737 - e.getKind() = 1
+INFO  19:39:45,737 - #39 (
+INFO  19:39:45,737 - Koristi se s na liniji 47
+INFO  19:39:45,738 - #40 )
+INFO  19:39:45,738 - #36 ;
+INFO  19:39:45,738 - #16 s
+INFO  19:39:45,738 - Pronadjen poziv funkcije s na liniji 47
+INFO  19:39:45,738 - #39 (
+INFO  19:39:45,738 - Koristi se s na liniji 48
+INFO  19:39:45,738 - #40 )
+INFO  19:39:45,738 - #36 ;
+INFO  19:39:45,738 - #44 }
+INFO  19:39:45,738 - Pronadjen poziv funkcije s na liniji 48
+INFO  19:39:45,738 - #44 }
+INFO  19:39:45,738 - Print calls = 0
+INFO  19:39:45,741 - Parsiranje uspesno zavrseno!

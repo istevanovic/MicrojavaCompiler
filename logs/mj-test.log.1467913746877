@@ -1,0 +1,143 @@
+INFO  19:48:33,011 - Compiling source file: C:\Users\si110350\Downloads\PPDZilija\test\program.mj
+INFO  19:48:33,022 - #2 program
+INFO  19:48:33,022 - #16 Prilepi
+INFO  19:48:33,022 - #16 int
+INFO  19:48:33,022 - #16 a
+INFO  19:48:33,022 - #37 ,
+INFO  19:48:33,022 - Deklarisana promenljiva a na liniji 6
+INFO  19:48:33,022 - #16 b
+INFO  19:48:33,022 - #36 ;
+INFO  19:48:33,022 - Deklarisana promenljiva b na liniji 6
+INFO  19:48:33,022 - #16 int
+INFO  19:48:33,023 - #16 manji
+INFO  19:48:33,023 - #37 ,
+INFO  19:48:33,023 - Deklarisana promenljiva manji na liniji 7
+INFO  19:48:33,023 - #16 veci
+INFO  19:48:33,023 - #37 ,
+INFO  19:48:33,023 - Deklarisana promenljiva veci na liniji 7
+INFO  19:48:33,023 - #16 step
+INFO  19:48:33,023 - #37 ,
+INFO  19:48:33,023 - Deklarisana promenljiva step na liniji 7
+INFO  19:48:33,023 - #16 pom
+INFO  19:48:33,023 - #37 ,
+INFO  19:48:33,023 - Deklarisana promenljiva pom na liniji 7
+INFO  19:48:33,023 - #16 novi
+INFO  19:48:33,023 - #36 ;
+INFO  19:48:33,023 - Deklarisana promenljiva novi na liniji 7
+INFO  19:48:33,024 - #10 const
+INFO  19:48:33,024 - #16 int
+INFO  19:48:33,024 - #16 x
+INFO  19:48:33,024 - #33 =
+INFO  19:48:33,024 - #15 10
+INFO  19:48:33,024 - #36 ;
+INFO  19:48:33,024 - Definisana konstanta x na liniji 8
+INFO  19:48:33,024 - #43 {
+INFO  19:48:33,024 - #12 void
+INFO  19:48:33,024 - #16 main
+INFO  19:48:33,024 - #39 (
+INFO  19:48:33,024 - Obradjuje se funkcija main na liniji 11
+INFO  19:48:33,024 - #40 )
+INFO  19:48:33,024 - #43 {
+INFO  19:48:33,024 - #11 read
+INFO  19:48:33,025 - #39 (
+INFO  19:48:33,025 - #16 a
+INFO  19:48:33,025 - #40 )
+INFO  19:48:33,025 - Koristi se a na liniji 13
+INFO  19:48:33,025 - #36 ;
+INFO  19:48:33,025 - #11 read
+INFO  19:48:33,025 - #39 (
+INFO  19:48:33,025 - #16 b
+INFO  19:48:33,025 - #40 )
+INFO  19:48:33,025 - Koristi se b na liniji 14
+INFO  19:48:33,026 - #36 ;
+INFO  19:48:33,026 - #16 novi
+INFO  19:48:33,026 - #33 =
+INFO  19:48:33,026 - Koristi se novi na liniji 16
+INFO  19:48:33,026 - #15 0
+INFO  19:48:33,026 - #36 ;
+INFO  19:48:33,026 - #5 if
+INFO  19:48:33,026 - #39 (
+INFO  19:48:33,026 - #16 a
+INFO  19:48:33,026 - #29 <
+INFO  19:48:33,026 - Koristi se a na liniji 17
+INFO  19:48:33,026 - #16 b
+INFO  19:48:33,026 - #40 )
+INFO  19:48:33,026 - Koristi se b na liniji 17
+INFO  19:48:33,026 - #43 {
+INFO  19:48:33,026 - #16 manji
+INFO  19:48:33,027 - #33 =
+INFO  19:48:33,027 - Koristi se manji na liniji 18
+INFO  19:48:33,027 - #16 a
+INFO  19:48:33,027 - #36 ;
+INFO  19:48:33,027 - Koristi se a na liniji 18
+INFO  19:48:33,027 - #16 veci
+INFO  19:48:33,027 - #33 =
+INFO  19:48:33,027 - Koristi se veci na liniji 19
+INFO  19:48:33,027 - #16 b
+INFO  19:48:33,027 - #36 ;
+INFO  19:48:33,027 - Koristi se b na liniji 19
+INFO  19:48:33,027 - #44 }
+INFO  19:48:33,027 - #6 else
+INFO  19:48:33,027 - #43 {
+INFO  19:48:33,027 - #16 manji
+INFO  19:48:33,027 - #33 =
+INFO  19:48:33,027 - Koristi se manji na liniji 21
+INFO  19:48:33,027 - #16 b
+INFO  19:48:33,027 - #36 ;
+INFO  19:48:33,027 - Koristi se b na liniji 21
+INFO  19:48:33,027 - #16 veci
+INFO  19:48:33,027 - #33 =
+INFO  19:48:33,027 - Koristi se veci na liniji 22
+INFO  19:48:33,028 - #16 a
+INFO  19:48:33,028 - #36 ;
+INFO  19:48:33,028 - Koristi se a na liniji 22
+INFO  19:48:33,028 - #44 }
+INFO  19:48:33,028 - #16 pom
+INFO  19:48:33,028 - #33 =
+INFO  19:48:33,028 - Koristi se pom na liniji 24
+INFO  19:48:33,028 - #16 manji
+INFO  19:48:33,028 - #36 ;
+INFO  19:48:33,028 - Koristi se manji na liniji 24
+INFO  19:48:33,028 - #13 while
+INFO  19:48:33,028 - #39 (
+INFO  19:48:33,028 - #16 pom
+INFO  19:48:33,028 - #27 >
+INFO  19:48:33,028 - Koristi se pom na liniji 25
+INFO  19:48:33,028 - #15 0
+INFO  19:48:33,028 - #40 )
+INFO  19:48:33,028 - #43 {
+INFO  19:48:33,029 - #16 pom
+INFO  19:48:33,029 - #33 =
+INFO  19:48:33,029 - Koristi se pom na liniji 26
+INFO  19:48:33,029 - #16 pom
+INFO  19:48:33,029 - #23 /
+INFO  19:48:33,029 - Koristi se pom na liniji 26
+INFO  19:48:33,029 - #16 x
+INFO  19:48:33,029 - #36 ;
+INFO  19:48:33,029 - Koristi se x na liniji 26
+INFO  19:48:33,029 - #16 step
+INFO  19:48:33,029 - #33 =
+INFO  19:48:33,029 - Koristi se step na liniji 27
+INFO  19:48:33,029 - #16 step
+INFO  19:48:33,029 - #22 *
+INFO  19:48:33,029 - Koristi se step na liniji 27
+INFO  19:48:33,029 - #16 x
+INFO  19:48:33,029 - #36 ;
+INFO  19:48:33,029 - Koristi se x na liniji 27
+INFO  19:48:33,029 - #44 }
+INFO  19:48:33,029 - #16 novi
+INFO  19:48:33,029 - #33 =
+INFO  19:48:33,029 - Koristi se novi na liniji 29
+INFO  19:48:33,029 - #16 veci
+INFO  19:48:33,029 - #22 *
+INFO  19:48:33,030 - Koristi se veci na liniji 29
+INFO  19:48:33,030 - #16 step
+INFO  19:48:33,030 - #20 +
+INFO  19:48:33,030 - Koristi se step na liniji 29
+INFO  19:48:33,030 - #16 manji
+INFO  19:48:33,030 - #36 ;
+INFO  19:48:33,030 - Koristi se manji na liniji 29
+INFO  19:48:33,030 - #44 }
+INFO  19:48:33,030 - #44 }
+INFO  19:48:33,030 - Print calls = 0
+INFO  19:48:33,031 - Parsiranje uspesno zavrseno!

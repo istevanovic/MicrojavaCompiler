@@ -1,0 +1,131 @@
+INFO  19:56:24,266 - Compiling source file: C:\Users\si110350\Downloads\PPDZilija\test\program.mj
+INFO  19:56:24,281 - #2 program
+INFO  19:56:24,281 - #16 MaxCifra
+INFO  19:56:24,281 - #10 const
+INFO  19:56:24,281 - #16 x
+INFO  19:56:24,282 - #36 ;
+ERROR 19:56:24,282 - Nije pronadjen tip x u tabeli simbola
+ERROR 19:56:24,282 - 
+Sintaksna GRESKA na liniji 4
+INFO  19:56:24,282 - #16 int
+INFO  19:56:24,282 - #16 a
+INFO  19:56:24,282 - #37 ,
+DEBUG 19:56:24,282 - Oporavak od gre`ske pri dodeli vrednosti u liniji 4
+INFO  19:56:24,283 - Deklarisana promenljiva a na liniji 6
+INFO  19:56:24,283 - #16 c
+INFO  19:56:24,283 - #37 ,
+INFO  19:56:24,283 - Deklarisana promenljiva c na liniji 6
+INFO  19:56:24,283 - #16 maxcif
+INFO  19:56:24,283 - #36 ;
+INFO  19:56:24,283 - Deklarisana promenljiva maxcif na liniji 6
+INFO  19:56:24,283 - #16 char
+INFO  19:56:24,283 - #16 e
+INFO  19:56:24,283 - #33 =
+ERROR 19:56:24,283 - 
+Sintaksna GRESKA na liniji 7
+INFO  19:56:24,283 - #17 2
+INFO  19:56:24,284 - #36 ;
+INFO  19:56:24,284 - #16 int
+INFO  19:56:24,284 - #16 c
+INFO  19:56:24,284 - #36 ;
+DEBUG 19:56:24,284 - Oporavak od greske pri definisanju globalne promenljive u liniji 7
+ERROR 19:56:24,284 - GRESKA na liniji 8: Promenljiva c je vec deklarisana.
+INFO  19:56:24,284 - #43 {
+INFO  19:56:24,284 - #12 void
+INFO  19:56:24,284 - #16 main
+INFO  19:56:24,284 - #39 (
+INFO  19:56:24,284 - Obradjuje se funkcija main na liniji 10
+INFO  19:56:24,284 - #40 )
+INFO  19:56:24,284 - #16 char
+INFO  19:56:24,284 - #16 a
+INFO  19:56:24,284 - #36 ;
+INFO  19:56:24,284 - Deklarisana promenljiva a na liniji 10
+INFO  19:56:24,284 - #16 int
+INFO  19:56:24,284 - #16 z
+INFO  19:56:24,284 - #33 =
+ERROR 19:56:24,285 - 
+Sintaksna GRESKA na liniji 10
+INFO  19:56:24,285 - #15 0
+INFO  19:56:24,285 - #43 {
+INFO  19:56:24,285 - #11 read
+INFO  19:56:24,285 - #39 (
+INFO  19:56:24,285 - #16 a
+DEBUG 19:56:24,285 - Oporavak od greske pri definisanju lokalne promenljive u liniji 10
+INFO  19:56:24,286 - #40 )
+INFO  19:56:24,286 - Koristi se a na liniji 11
+INFO  19:56:24,286 - #36 ;
+INFO  19:56:24,286 - #16 maxcif
+INFO  19:56:24,286 - #33 =
+INFO  19:56:24,287 - Koristi se maxcif na liniji 12
+INFO  19:56:24,287 - #15 0
+INFO  19:56:24,287 - #36 ;
+INFO  19:56:24,287 - #13 while
+INFO  19:56:24,287 - #39 (
+INFO  19:56:24,287 - #16 a
+INFO  19:56:24,287 - #26 !=
+INFO  19:56:24,287 - Koristi se a na liniji 13
+INFO  19:56:24,287 - #15 0
+INFO  19:56:24,288 - #40 )
+ERROR 19:56:24,288 - GRESKA na liniji 13: Tipovi nisu kompatibilni.
+INFO  19:56:24,288 - #43 {
+INFO  19:56:24,288 - #16 c
+INFO  19:56:24,288 - #33 =
+INFO  19:56:24,288 - Koristi se c na liniji 14
+INFO  19:56:24,288 - #16 a
+INFO  19:56:24,288 - #24 %
+INFO  19:56:24,288 - Koristi se a na liniji 14
+INFO  19:56:24,288 - #15 10
+INFO  19:56:24,288 - #36 ;
+ERROR 19:56:24,288 - GRESKA na liniji 14: cinioci moraju biti tipa int.
+INFO  19:56:24,288 - #5 if
+INFO  19:56:24,288 - #39 (
+INFO  19:56:24,288 - #16 maxcif
+INFO  19:56:24,288 - #29 <
+INFO  19:56:24,288 - Koristi se maxcif na liniji 15
+INFO  19:56:24,288 - #27 >
+ERROR 19:56:24,288 - 
+Sintaksna GRESKA na liniji 15
+INFO  19:56:24,288 - #16 c
+INFO  19:56:24,288 - #40 )
+INFO  19:56:24,289 - #16 maxcif
+INFO  19:56:24,289 - #33 =
+INFO  19:56:24,289 - #16 c
+INFO  19:56:24,289 - Koristi se maxcif na liniji 16
+INFO  19:56:24,289 - #36 ;
+INFO  19:56:24,289 - Koristi se c na liniji 16
+INFO  19:56:24,289 - #16 a
+DEBUG 19:56:24,289 - Oporavak od greske pri pogresnom logickom iskazu u liniji 16
+INFO  19:56:24,289 - #33 =
+INFO  19:56:24,289 - Koristi se a na liniji 17
+INFO  19:56:24,289 - #16 a
+INFO  19:56:24,289 - #23 /
+INFO  19:56:24,289 - Koristi se a na liniji 17
+INFO  19:56:24,289 - #15 10
+INFO  19:56:24,289 - #36 ;
+ERROR 19:56:24,289 - GRESKA na liniji 17: cinioci moraju biti tipa int.
+INFO  19:56:24,289 - #44 }
+ERROR 19:56:24,289 - GRESKA na liniji 17: nekompatibilni tipovi u dodeli vrednosti2.
+INFO  19:56:24,289 - #11 read
+INFO  19:56:24,289 - #39 (
+INFO  19:56:24,289 - #16 x
+INFO  19:56:24,290 - #40 )
+ERROR 19:56:24,290 - GRESKA na liniji 19 : ime x nije deklarisano! 
+INFO  19:56:24,290 - #36 ;
+INFO  19:56:24,290 - #16 x
+ERROR 19:56:24,290 - Semanticka GRESKA na liniji 19: parametar u naredbi read nije dobar!
+INFO  19:56:24,290 - #34 ++
+ERROR 19:56:24,290 - GRESKA na liniji 20 : ime x nije deklarisano! 
+INFO  19:56:24,290 - #36 ;
+INFO  19:56:24,290 - #8 print
+ERROR 19:56:24,290 - GRESKA na liniji 20: rezultat nije lvrednost.
+INFO  19:56:24,290 - #39 (
+INFO  19:56:24,290 - #16 max
+INFO  19:56:24,290 - #40 )
+ERROR 19:56:24,290 - GRESKA na liniji 21 : ime max nije deklarisano! 
+INFO  19:56:24,290 - #36 ;
+INFO  19:56:24,290 - #44 }
+DEBUG 19:56:24,290 - e.getKind() = 0
+ERROR 19:56:24,290 - Semanticka GRESKA na liniji 21: parametar u naredbi print nije dobar!
+INFO  19:56:24,291 - #44 }
+INFO  19:56:24,291 - Print calls = 0
+ERROR 19:56:24,291 - Parsiranje NIJE uspesno zavrseno!
